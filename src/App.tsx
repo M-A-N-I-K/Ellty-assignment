@@ -42,7 +42,7 @@ function App() {
 						/>
 					))}
 					<div className="border-b border-gray-600 w-full mb-4"></div>
-					<button className="w-full rounded h-12 bg-[#FFCE22] text-white">
+					<button className="w-full rounded h-12 bg-[#FFCE22] text-black hover:bg[#FDE695]">
 						Done
 					</button>
 				</div>
